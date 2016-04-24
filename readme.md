@@ -5,6 +5,16 @@ This repository contains many examples of using React and the various tools in t
 These guides are meant to illustrate various features of React as well as some tips and best practices for writing React apps.
 
 
+## Guides
+
+- [Hello World](hello-world) - This is where you should start if you're new to React!
+
+In the follow examples, I begin to write ES6/7-style JavaScript. If you're new to ES6/7, don't worry, the examples can all be written without it. The ES6/7 code is included because, in my opinion, it makes writing JavaScript more enjoyable. Try it out and see if you like it.
+
+- [Your First Component](first-component) - Now that you've seen React, let's write your first component!
+- [Stateless Functions](stateless-functions) - For simple components, use simple functions to create React components.
+
+
 ## What is React?
 
 React is a frontend UI library written by Facebook. It makes creating UIs in JavaScript simple to reason about, fast to render and predictable.
@@ -72,16 +82,6 @@ You should be able to download this repository (or clone it) and follow the read
 Each folder is self-contained and should be usable directly. There are some that will require you to have `npm` installed, but that is also documented.
 
 
-## Guides
-
-- [Hello World](hello-world) - This is where you should start if you're new to React!
-
-In the follow examples, I begin to write ES6/7-style JavaScript. If you're new to ES6/7, don't worry, the examples can all be written without it. The ES6/7 code is included because, in my opinion, it makes writing JavaScript more enjoyable. Try it out and see if you like it.
-
-- [Your First Component](first-component) - Now that you've seen React, let's write your first component!
-- [Stateless Functions](stateless-functions) - For simple components, use simple functions to create React components.
-
-
 ## Helpful links and resources
 
 - [React documentation](http://facebook.github.io/react/docs/getting-started.html)
@@ -99,4 +99,4 @@ See things that should be added, improved or clarified? Please create a Pull Req
 
 ## License
 
-MIT
+MIT by [Dana Woodman](http://danawoodman.com) & [BIG](http://builtbybig.com)
