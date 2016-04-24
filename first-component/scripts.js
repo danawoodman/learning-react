@@ -17,6 +17,6 @@ const HelloMessage = React.createClass({
 });
 
 ReactDOM.render(
-  <HelloMessage message="World" />,
+  <HelloMessage message='World' />,
   document.getElementById('root')
 )
