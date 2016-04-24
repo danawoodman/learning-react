@@ -8,11 +8,10 @@ These guides are meant to illustrate various features of React as well as some t
 ## Guides
 
 - [Hello World](hello-world) - This is where you should start if you're new to React!
-
-In the follow examples, I begin to write ES6/7-style JavaScript. If you're new to ES6/7, don't worry, the examples can all be written without it. The ES6/7 code is included because, in my opinion, it makes writing JavaScript more enjoyable. Try it out and see if you like it.
-
 - [Your First Component](first-component) - Now that you've seen React, let's write your first component!
 - [Stateless Functions](stateless-functions) - For simple components, use simple functions to create React components.
+
+**Note** In many of the examples, I write ES6/7-style JavaScript. If you're new to ES6/7, don't worry, the examples can all be written without it. The ES6/7 code is included because, in my opinion, it makes writing JavaScript more enjoyable. Try it out and see if you like it!
 
 
 ## What is React?
