@@ -1,3 +1,7 @@
+# MOVED!
+
+**For the latest examples of using react, please see my other repo [react-examples](https://github.com/danawoodman/react-examples)!**
+
 # Learning React
 
 This repository contains many examples of using React and the various tools in the React family.
